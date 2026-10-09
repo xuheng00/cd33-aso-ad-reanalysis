@@ -1,0 +1,17 @@
+"series","tissue","group","Freq"
+"GSE74437","Frontal_cortex","APPPS1_CD33_ASO",10
+"GSE74438","Frontal_cortex","APPPS1_CD33_ASO",11
+"GSE74437","Hippocampus","APPPS1_CD33_ASO",9
+"GSE74438","Hippocampus","APPPS1_CD33_ASO",12
+"GSE74437","Frontal_cortex","APPPS1_Control_ASO",11
+"GSE74438","Frontal_cortex","APPPS1_Control_ASO",13
+"GSE74437","Hippocampus","APPPS1_Control_ASO",11
+"GSE74438","Hippocampus","APPPS1_Control_ASO",13
+"GSE74437","Frontal_cortex","APPPS1_PBS",8
+"GSE74438","Frontal_cortex","APPPS1_PBS",9
+"GSE74437","Hippocampus","APPPS1_PBS",8
+"GSE74438","Hippocampus","APPPS1_PBS",9
+"GSE74437","Frontal_cortex","WT_PBS",11
+"GSE74438","Frontal_cortex","WT_PBS",12
+"GSE74437","Hippocampus","WT_PBS",11
+"GSE74438","Hippocampus","WT_PBS",12

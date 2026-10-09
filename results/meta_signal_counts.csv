@@ -1,0 +1,7 @@
+"tissue","contrast","meta_FDR05","concordant_FDR05","low_heterogeneity_FDR05"
+"Frontal_cortex","CD33_specific",302,302,245
+"Hippocampus","CD33_specific",242,233,108
+"Frontal_cortex","Control_ASO_effect",875,859,722
+"Hippocampus","Control_ASO_effect",1451,1413,915
+"Frontal_cortex","Disease",2714,2693,2333
+"Hippocampus","Disease",459,459,346

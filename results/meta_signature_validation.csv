@@ -1,0 +1,3 @@
+"tissue","n_mapped","spearman_rho","cor_P","down_N","down_human_direction","down_P","up_N","up_human_direction","up_P","all_expected","down_FDR","up_FDR"
+"Hippocampus",94,0.113434237618755,0.276335296834427,37,"Down",0.261465617981231,57,"Down",0.0459043663411641,FALSE,0.261465617981231,0.0918087326823282
+"Frontal_cortex",215,0.123812456229322,0.0700107073155685,66,"Down",0.0180040551598441,149,"Down",0.224696160898833,FALSE,0.0720162206393763,0.261465617981231

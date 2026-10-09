@@ -1,0 +1,3 @@
+"tissue","cd33_n","control_n","overlap","overlap_frac_cd33","overlap_frac_control","jaccard"
+"Frontal_cortex",245,722,55,0.224,0.076,0.06
+"Hippocampus",108,915,16,0.148,0.017,0.016

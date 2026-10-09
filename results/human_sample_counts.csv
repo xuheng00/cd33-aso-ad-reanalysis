@@ -1,0 +1,9 @@
+"series","region","status","Freq"
+"GSE48350","Frontal_cortex","AD",21
+"GSE5281","Frontal_cortex","AD",23
+"GSE48350","Hippocampus","AD",19
+"GSE5281","Hippocampus","AD",10
+"GSE48350","Frontal_cortex","Control",26
+"GSE5281","Frontal_cortex","Control",11
+"GSE48350","Hippocampus","Control",25
+"GSE5281","Hippocampus","Control",13
